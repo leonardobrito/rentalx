@@ -21,7 +21,7 @@
 .vscode
 
 tmp/*
-tmp/.gitkeep
+!tmp/.gitkeep
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
